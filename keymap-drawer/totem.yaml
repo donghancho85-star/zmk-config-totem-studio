@@ -33,8 +33,8 @@ layers:
   - FSLH
   - {t: Esc, h: Ctrl}
   - {t: ESC, h: MEDIA}
-  - {t: SPACE, h: NAV}
-  - {t: TAB, h: MOUSE}
+  - {t: TAB, h: NAV}
+  - {t: SPACE, h: MOUSE}
   - {t: RET, h: SYM}
   - {t: BSPC, h: NUM}
   - {t: DEL, h: FUN}
@@ -47,7 +47,7 @@ layers:
   - ''
   - Gui+Sft+Z
   - Gui+V
-  - Gui+C
+  - UP
   - Gui+X
   - Gui+Z
   - LGUI
@@ -57,7 +57,7 @@ layers:
   - ''
   - LEFT
   - DOWN
-  - UP
+  - PG DN
   - RIGHT
   - CAPS
   - ''
@@ -66,8 +66,8 @@ layers:
   - ''
   - ''
   - INS
+  - Gui+C
   - HOME
-  - PG DN
   - PG UP
   - END
   - {t: Esc, h: Ctrl}
